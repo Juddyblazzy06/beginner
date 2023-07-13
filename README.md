@@ -1,0 +1,2 @@
+# beginner
+code startup
